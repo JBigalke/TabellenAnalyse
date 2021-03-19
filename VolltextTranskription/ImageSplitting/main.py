@@ -80,6 +80,6 @@ for xmlfile in xmllist:
 
 
 
-#if (os.path.exists("/media/jan/Extern/Bilder/imagesplitting/Images")):
- #   shutil.rmtree("/media/jan/Extern//Bilder/imagesplitting/Images")
+#if (os.path.exists("data/images")):
+ #   shutil.rmtree("data/images")
 
