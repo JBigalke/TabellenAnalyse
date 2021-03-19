@@ -24,7 +24,8 @@ Beispielhafter verlauf:
 
 
 4. Extract Textpolygon
-![step_3](https://user-images.githubusercontent.com/8956270/111817719-a2c70000-88de-11eb-99ca-cca807f922e3.png)
+![step_4](https://user-images.githubusercontent.com/8956270/111817852-cf7b1780-88de-11eb-8dc0-4e59b665c71c.png)
+
 
 
 5. apha to White
