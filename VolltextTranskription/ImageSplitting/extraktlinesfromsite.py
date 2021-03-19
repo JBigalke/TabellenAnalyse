@@ -10,9 +10,9 @@ class extraclinefromsite():
         self.originalpath = "/".join(originalfeed.split("/")[:-1])
         self.originalname = originalfeed.split("/")[-1]
         self.resultname = self.originalname.replace(".jpg", "-"+lineid)
-        self.resultpath = self.originalpath.replace("Originals", "results")+"/"+self.originalname.replace(".jpg", "")
+        self.resultpath = self.originalpath.replace("originals", "results")+"/"+self.originalname.replace(".jpg", "")
         self.resultfeed = self.resultpath +"/"+ self.resultname+".jpg"
-        self.temppath = self.originalpath.replace("Originals", "Temp")+"/"+self.originalname.replace(".jpg", "")+"/"+\
+        self.temppath = self.originalpath.replace("originals", "Temp")+"/"+self.originalname.replace(".jpg", "")+"/"+\
                                                     self.resultname.replace(".jpg", "")
         self.resolution = lineresolution
         self.coords = coords
