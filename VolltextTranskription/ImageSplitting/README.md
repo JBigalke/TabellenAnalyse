@@ -20,11 +20,11 @@ Beispielhafter verlauf:
 
 
 3. White to alpha
-![step_3](https://user-images.githubusercontent.com/8956270/111816487-313a8200-88dd-11eb-9a2f-dba50d26a72e.png)
+![step_3](https://user-images.githubusercontent.com/8956270/111817482-567bc000-88de-11eb-95af-c89e01aceb02.png)
 
 
 4. Extract Textpolygon
-![step_4](https://user-images.githubusercontent.com/8956270/111816498-37306300-88dd-11eb-89af-3f681427b409.png)
+![step_3](https://user-images.githubusercontent.com/8956270/111817719-a2c70000-88de-11eb-99ca-cca807f922e3.png)
 
 
 5. apha to White
