@@ -6,7 +6,7 @@ jpgfiles = []
 jpgfolders = os.walk("images")
 newfolder = "Sal5066/data/imgs"
 
-with open('/media/jan/Extern/TabellenAnalyse/VolltextTranskription/HandwrittenTextRecognition/Sal5066/prod/prod.lst', 'w') as prodlist:
+with open('PyLaia/Sal5066/prod/prod.lst', 'w') as prodlist:
     for jpgfolder in jpgfolders:
         pathfeed = jpgfolder[0]
         print(pathfeed)
