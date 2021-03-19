@@ -1,0 +1,30 @@
+--exp_name ItineraNova_BL_Only
+--work_dir ../work
+--log_level DEBUG
+--num_workers 4
+--img_size 1024 768
+--line_color 128
+--line_width 5
+--approx_alg optimal
+--num_segments 4
+--batch_size 8
+--input_channels 3
+--out_mode L
+--net_out_type C
+--cnn_ngf 64
+--gan_layers 3
+--loss_lambda 100
+--g_loss L1
+--adam_lr 0.001
+--adam_beta1 0.5
+--adam_beta2 0.999
+--no-do_train
+--no-do_val
+--no-do_test
+--do_prod
+--prod_data ../work/prod/data
+--max_vertex 70
+--e_stdv 6
+--log_level INFO
+--no_display
+--prev_model ../work/ItineraNova2.pth
