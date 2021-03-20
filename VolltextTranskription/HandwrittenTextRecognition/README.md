@@ -4,7 +4,6 @@ git clone https://github.com/jpuigcerver/PyLaia.git PyLaia gecloned werden und m
 `pip install -e` installiert werden
 
 Als nächstes muss der Ordner SAL5066 in den Hauptordner von PyLaia kopiert werden und das File
-
 createprodlist.py ausgeführt werden.
 Dieses verschiebt die Bilder aus den images ordner in den richtigen Zielordner für PyLaia und erstellt außerdem eine Liste mit allen Bildern die von PyLaia analysiert werden sollen.
 
