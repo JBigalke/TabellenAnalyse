@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15  http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>P2PaLA-PRHLT</Creator>
+    <Created>2020-07-26T16:29:33</Created>
+    <LastChange>2020-07-26T16:29:33</LastChange>
+  </Metadata>
+  <Page imageFilename="SAL5066_0002.jpg" imageHeight="2527" imageWidth="2048">
+    <TextRegion custom="structure {type:full_page;}" id="rRLUy_1">
+      <Coords points="0,0 0,2524 2045,2524 2045,0"/>
+      <TextLine custom="structure {type:full_page;}" id="lZnsI_0"><Coords points="1005,1211 1002,1213 745,1202 743,1252 1007,1263 1019,1262 1032,1253"/><Baseline points="744,1240 1007,1251 1015,1250 1026,1243"/><TextEquiv><Unicode>te liiii xlˀ geˀ</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lDSEQ_3"><Coords points="1347,1158 1317,1163 956,1163 745,1158 744,1208 955,1213 1322,1213 1356,1207"/><Baseline points="745,1196 956,1201 1321,1201 1354,1195"/><TextEquiv><Unicode>xiiic lxix gulˀ rˀ xxiiiˀ plˀ </Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="l0CXr_4"><Coords points="1328,1115 1023,1112 980,1112 746,1109 745,1159 979,1162 1331,1165 1341,1159"/><Baseline points="746,1147 980,1150 1328,1153 1335,1149"/><TextEquiv><Unicode>den yetsten qutˀ jiers compt op</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="l4SQ9_6"><Coords points="1382,1066 994,1057 905,1059 786,1061 747,1056 741,1106 784,1111 911,1109 993,1107 1381,1116"/><Baseline points="743,1094 785,1099 994,1095 1382,1104"/><TextEquiv><Unicode>hebben vandˀ stat vercocht assˀbiˀne</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lW1VR_7"><Coords points="1371,1019 1175,1009 743,1012 682,1015 684,1065 745,1062 1174,1059 1369,1069"/><Baseline points="684,1053 745,1050 1175,1047 1370,1057"/><TextEquiv><Unicode>suˀ van dat die rentmeestˀs ontfaen</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lQfyY_8"><Coords points="1633,762 1631,764 1584,762 1378,753 1291,757 1293,807 1379,803 1443,806 1645,814 1660,804"/><Baseline points="1293,795 1379,791 1642,802 1654,794"/><TextEquiv><Unicode>xix ju v plˀ xii ˀ p</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="l2kPt_9"><Coords points="1122,732 1042,740 958,734 941,733 623,738 624,788 940,783 955,784 1043,790 1127,782"/><Baseline points="624,776 941,771 1043,778 1126,770"/><TextEquiv><Unicode>jan de joede vandˀ inre gelde</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lmHmb_10"><Coords points="1674,708 1628,717 1525,708 1423,700 1280,709 1283,759 1422,750 1516,758 1631,767 1684,757"/><Baseline points="1283,747 1423,738 1631,755 1682,745"/><TextEquiv><Unicode>op gulˀ iii qutˀ pi plˀ xi spˀ</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lbrHg_11"><Coords points="1094,686 1083,690 967,687 675,681 617,691 626,740 678,731 908,736 1092,740 1111,733"/><Baseline points="624,728 678,719 1090,728 1107,722"/><TextEquiv><Unicode>jan gilans vandˀ meishalleˀ</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lahrN_12"><Coords points="1530,657 1374,643 1370,649 1369,651 1301,645 1296,695 1395,704 1397,700 1400,696 1525,707"/><Baseline points="1298,683 1389,691 1394,683 1527,695"/><TextEquiv><Unicode>viiiˀ gulˀ vi</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lcRyk_13"><Coords points="1122,630 1116,632 996,631 798,630 630,635 632,685 799,680 915,681 1123,682 1137,677"/><Baseline points="632,673 799,668 1122,670 1134,666"/><TextEquiv><Unicode>jaspˀ kumpe vandˀ snedeken</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lyyES_15"><Coords points="1403,596 1401,597 1382,597 1319,597 1294,603 1307,652 1325,647 1343,647 1418,647 1433,636"/><Baseline points="1304,640 1324,635 1414,635 1426,626"/><TextEquiv><Unicode>xxvi </Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lgmJv_17"><Coords points="1182,585 723,577 707,578 622,590 629,640 713,628 725,627 1181,635"/><Baseline points="628,628 712,616 725,615 1182,623"/><TextEquiv><Unicode>henrˀ metteˀ gelde vandˀ vert assˀm</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="leA86_18"><Coords points="1683,530 1656,539 1652,532 1304,543 1306,593 1627,583 1638,597 1698,577"/><Baseline points="1306,581 1634,571 1643,583 1695,566"/><TextEquiv><Unicode>vip</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lVyvY_19"><Coords points="1157,529 684,532 654,527 612,542 630,589 659,578 681,582 1158,579"/><Baseline points="626,578 658,566 682,570 1158,567"/><TextEquiv><Unicode>jan wellens vandˀ bleyk assˀm</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lCp9U_20"><Coords points="1704,478 1644,478 1337,478 1325,474 1307,520 1327,528 1708,528 1722,516"/><Baseline points="1312,509 1330,516 1704,516 1714,507"/><TextEquiv><Unicode>xxvii gulˀqtivispˀ</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="l43C5_21"><Coords points="1222,475 887,475 815,478 661,485 630,480 621,529 658,535 831,527 888,525 1222,525"/><Baseline points="624,517 659,523 888,513 1222,513"/><TextEquiv><Unicode>gheert van rotfelaeˀ vandˀ beckˀ assˀm</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lhJhW_22"><Coords points="1526,412 1506,415 1322,422 1310,459 1315,472 1511,465 1533,462"/><Baseline points="1322,455 1324,460 1510,453 1532,450"/><TextEquiv><Unicode>ii gulˀ ix po</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lTD9K_23"><Coords points="1225,410 977,413 728,414 624,424 629,474 730,464 978,463 1226,460"/><Baseline points="628,462 730,452 978,451 1226,448"/><TextEquiv><Unicode>symoen vandˀ meersbˀge vadˀ tolleke</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="lfwQA_24"><Coords points="1572,357 1534,365 1470,363 1338,360 1308,373 1329,419 1348,410 1448,413 1539,415 1582,406"/><Baseline points="1324,408 1346,398 1538,403 1580,394"/><TextEquiv><Unicode>xcii gulˀ ii qt</Unicode></TextEquiv></TextLine>
+      <TextLine custom="structure {type:full_page;}" id="le9lu_25"><Coords points="1138,358 665,358 623,368 634,417 671,408 879,408 1143,408 1152,398"/><Baseline points="632,405 670,396 1138,396 1144,390"/><TextEquiv><Unicode>jan de joede vandˀ bischimeia</Unicode></TextEquiv></TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
