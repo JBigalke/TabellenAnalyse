@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>TEI of SAL5066</title></titleStmt><publicationStmt><p>not published</p></publicationStmt><sourceDesc><p>Analyse von 2 Seiten von SAL5066 für demonstrationszwecken </p></sourceDesc></fileDesc></teiHeader><text><body>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>TEI of SAL5066</title></titleStmt><publicationStmt><p>not published</p></publicationStmt><sourceDesc><p>Analyse von 2 Seiten von SAL5066 für demonstrationszwecken </p></sourceDesc></fileDesc>		<encodingDesc>
+    <listPrefixDef>
+        <prefixDef ident="bk" matchPattern="([(a-z)|(A-Z)]+)" replacementPattern="https://gams.uni-graz.at/o:depcha.bookgeeping#$1">
+            <p>Analystic descriptors are considered to represent concepts from the DEPCHA bookkeeping ontology and can be xtrended te respective URIs.</p>			
+        </prefixDef>
+    </listPrefixDef>
+    </encodingDesc></teiHeader><text><body>
 <pb n="1"/>
 
 <p>
@@ -40,7 +46,7 @@
 <lb/>
 <lb/>
 </p>
-<tabel>
+<table>
 <row>
 <cell>jan mˀtels vandˀ laken assˀm</cell>
 <cell>lxx gulˀ iiˀ qˀtˀ</cell>
@@ -73,11 +79,11 @@
 <cell>jan de joede vandˀ vleesthuys</cell>
 <cell>e xxii gulˀ</cell>
 </row>
-</tabel>
+</table>
 
 <pb n="2"/>
 
-<tabel>
+<table>
 <row>
 <cell>jan de joede vandˀ bischimeia</cell>
 <cell>xcii gulˀ ii qt</cell>
@@ -102,17 +108,17 @@
 <cell>jaspˀ kumpe vandˀ snedeken</cell>
 <cell>viiiˀ gulˀ vi</cell>
 </row>
-</tabel>
+</table>
 
 
-<tabel>
+<table>
 <row>
 <cell>jan gilans vandˀ meishalleˀ</cell>
 <cell>op gulˀ iii qutˀ pi plˀ xi spˀ</cell>
 <cell>jan de joede vandˀ inre gelde</cell>
 <cell>xix ju v plˀ xii ˀ p</cell>
 </row>
-</tabel>
+</table>
 
 
 <p>
