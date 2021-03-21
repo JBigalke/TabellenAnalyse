@@ -1,1 +1,1 @@
-
+# Struktur Analyse
