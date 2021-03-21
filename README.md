@@ -7,17 +7,17 @@ Innerhalb des ORdners Beispieldaten befinden sich die durch die einzelnen Schrit
 
 Der Workflow folgt der Reihenfolge
 
-1. Zeilen Extraktion
-  1.1 Baseline Recognition
-  1.2 Textpolygon Recognition  
-2. Volltext Transkription
-  2.1 Image Splitting
-  2.2 Handwritten Text Recognition
-  2.3 Text2Image
-3. Struktur Analyse
-  3.1 Tabellen Analyse
-4.  Annotation
-  4.1 Regex
+* Zeilen Extraktion
+  * Baseline Recognition
+  * Textpolygon Recognition  
+* Volltext Transkription
+  * Image Splitting
+  * Handwritten Text Recognition
+  * Text2Image
+* Struktur Analyse
+  * Tabellen Analyse
+* Annotation
+  * Regex
 
 ![grafik](https://user-images.githubusercontent.com/8956270/111913140-15fe7c80-8a6d-11eb-8262-c40aaee6ba21.png)
 
