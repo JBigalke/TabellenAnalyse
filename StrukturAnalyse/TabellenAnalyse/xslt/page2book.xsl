@@ -20,6 +20,13 @@
                         <p>Analyse von 2 Seiten von SAL5066 für demonstrationszwecken </p>
                     </sourceDesc>
                 </fileDesc>
+		<encodingDesc>
+		   <listPrefixDef>
+			<prefixDef ident="bk" matchPattern="([(a-z)|(A-Z)]+)" replacementPattern="https://gams.uni-graz.at/o:depcha.bookgeeping#$1">
+			<p>Analystic descriptors are considered to represent concepts from the DEPCHA bookkeeping ontology and can be xtrended te respective URIs.</p>			
+			</prefixDef>
+		   </listPrefixDef>
+		</encodingDesc>
             </teiHeader>
             <text>
                 <body>
@@ -50,9 +57,9 @@
     </xsl:template>
 
     <xsl:template match="table">
-        <tabel xmlns="http://www.tei-c.org/ns/1.0">
+        <table xmlns="http://www.tei-c.org/ns/1.0">
             <xsl:apply-templates/>
-        </tabel>
+        </table>
     </xsl:template>
 
     <xsl:template match="row">
