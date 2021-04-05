@@ -1,0 +1,83 @@
+#leftcontent {
+    width: 60%;
+    height: 1300px;
+    overflow: scroll;
+}
+
+#rightcontent{
+    width: 40%;
+    position: absolute;
+    top: 0px;
+    left: 60%;
+    height: 1300px;
+}
+
+.textregion, .tableregion, .tableregiontextregion {
+    margin-bottom: 1px;
+    border: black 1px solid;
+    position: relative;
+}
+
+
+.selected{
+    background-color: green;
+}
+
+.selected2{
+    background-color: yellow;
+}
+
+
+.pageimages, .pdfdiv{
+    height: 1250px;
+    width: -moz-available;
+    position: absolute;
+}
+
+.idpdf{
+    height: 100%;
+    width: 100%;
+    display: none;
+
+}
+
+.imagemenue{
+    position: absolute;
+    top: 97%;
+}
+
+
+
+.textline {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.buttonline{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+td{
+    border: black 1px dotted;
+}
+
+
+
+.editmenue, .texteditmenue, .tableeditmenue{
+    position: absolute;
+    top: 0px;
+    left: 50%;
+}
+
+.cellbutton, .rowbutton{
+    padding: 0px;
+}
+.annotatedialog{
+    background-color: white;
+    border: black 1px solid;
+}
+
+.annotatedialog .ui-dialog-titlebar-close {
+    display: none;
+}
