@@ -1,4 +1,4 @@
-Die Baseline Recognition nutzt das Tool
+Die Baseline Recognition nutzt das Tool P2Pala
 Um es für den Workflow zu benutzen muss aus mit dem folgenden Befehl aus dem Repository geklont werden:
 
 `git clone https://github.com/lquirosd/P2PaLA.git P2PaLA`
