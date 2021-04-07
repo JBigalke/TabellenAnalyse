@@ -19,5 +19,5 @@ Der Workflow folgt der Reihenfolge
 * Annotation
   * Regex
 
-![grafik](https://user-images.githubusercontent.com/8956270/111913140-15fe7c80-8a6d-11eb-8262-c40aaee6ba21.png)
+![Workflowdiagramm](https://user-images.githubusercontent.com/8956270/113892346-309f5800-97c6-11eb-9d65-50bd62acb582.jpg)
 
