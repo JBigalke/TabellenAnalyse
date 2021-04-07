@@ -1,132 +1,807 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>TEI of SAL5066</title></titleStmt><publicationStmt><p>not published</p></publicationStmt><sourceDesc><p>Analyse von 2 Seiten von SAL5066 für demonstrationszwecken </p></sourceDesc></fileDesc>		<encodingDesc>
-    <listPrefixDef>
-        <prefixDef ident="bk" matchPattern="([(a-z)|(A-Z)]+)" replacementPattern="https://gams.uni-graz.at/o:depcha.bookgeeping#$1">
-            <p>Analystic descriptors are considered to represent concepts from the DEPCHA bookkeeping ontology and can be xtrended te respective URIs.</p>			
-        </prefixDef>
-    </listPrefixDef>
-    </encodingDesc></teiHeader><text><body>
-<pb n="1"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TEI of SAL5066</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>not published</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Analyse von 2 Seiten von SAL5066 für demonstrationszwecken </p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="bk" matchPattern="([(a-z)|(A-Z)]+)"
+                    replacementPattern="https://gams.uni-graz.at/o:depcha.bookgeeping#$1">
+                    <p>Analystic descriptors are considered to represent concepts from the DEPCHA
+                        bookkeeping ontology and can be xtrended te respective URIs.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
 
-<p>
-<lb/>
-</p>
-
-
-<p>
-<lb/>sijˀ in
-</p>
-
-
-<p>
-<lb/>Aefkeniˀghe dot vier renmeestˀs der
-<lb/>stat van loveˀ te weten meestˀ jaˀ van
-<lb/>onvwinghe henrˀ wante dede vincke ende
-<lb/>jan deˀ prikeˀ van al dat sij ontfaen enˀ
-<lb/>uutghegeveˀ hebben vandˀ renteˀ enˀ opco
-<lb/>niˀghe der rontmeestscappe vandˀ stat
-<lb/>toebethoirenˀ van opten yetsten dach vandˀ
-<lb/>maent van sexst int jaeˀ ons heˀn
-<lb/>enˀ iiiic xxxviii tot opten lesten dach vandˀ
-<lb/>maent van cˀttobin int selve jaeˀ als
-<lb/>vandˀ yersten qˀtˀ jaeˀns Welke rekeniˀge
-<lb/>gedaen es in divistge muˀteˀ de allen ghe
-<lb/>valueert sijn in <measure ana='bk:money' type='currency' unit='gulden'>rijnscheˀ guldˀ</measure> stuc te luype
-</p>
+            <p>
+                <lb/>
+            </p>
 
 
-<p>
-<lb/>intfanck
-</p>
+            <p>
+                <lb/>sijˀ in </p>
 
 
-<p>
-<lb/>keerst ontfaen vandˀ stat vercochten
-<lb/>sassˀ die alle jaeˀ berrnden op divˀthe pˀsone
-<lb/>vandˀ yersten quts jaers
-<lb/>
-<lb/>
-</p>
-<table>
-<row>
-<cell>jan mˀtels vandˀ laken assˀm</cell>
-<cell><measure ana='bk:money' type='currency' unit='gulden'>lxx gulˀ</measure> iiˀ qˀtˀ</cell>
-</row>
-<row>
-<cell>jan van colen vandˀ weet assˀm</cell>
-<cell><measure ana='bk:money' type='currency' unit='gulden'>xiii guldˀ</measure></cell>
-</row>
-<row>
-<cell>jan gheerlex vandˀ ziedˀ assˀm</cell>
-<cell><measure ana='bk:money' type='currency' unit='gulden'>iii gulˀ</measure>qvixliipˀ</cell>
-</row>
-<row>
-<cell>henrˀ van vucht vandˀ zout assˀm</cell>
-<cell><measure ana='bk:money' type='currency' unit='gulden'>vˀ gulˀ</measure> xiii pl</cell>
-</row>
-<row>
-<cell>jan van dieneˀ vandˀ comeˀ assˀm</cell>
-<cell><measure ana='bk:money' type='currency' unit='gulden'>pˀ guldˀ</measure></cell>
-</row>
-<row>
-<cell> laes van dormule vandˀ pont assˀm</cell>
-<cell><measure ana='bk:money' type='currency' unit='gulden'>pˀtvi gulˀ</measure>ˀ qˀtˀ</cell>
-</row>
-<row>
-<cell>jaˀnes van royde vandˀ caˀchien</cell>
-<cell><measure ana='bk:money' type='currency' unit='gulden'>lviii gulˀ</measure> iii qˀtˀ</cell>
-</row>
-<row>
-<cell>jan de joede vandˀ vleesthuys</cell>
-<cell>e <measure ana='bk:money' type='currency' unit='gulden'>xxii gulˀ</measure></cell>
-</row>
-</table>
-
-<pb n="2"/>
-
-<table>
-<row>
-<cell>jan de joede vandˀ bischimeia</cell>
-<cell><measure ana='bk:money' type='currency' unit='gulden'>xcii gulˀ</measure> ii qt</cell>
-</row>
-<row>
-<cell>symoen vandˀ meersbˀge vadˀ tolleke</cell>
-<cell><measure ana='bk:money' type='currency' unit='gulden'>ii gulˀ</measure> ix po</cell>
-</row>
-<row>
-<cell>gheert van rotfelaeˀ vandˀ beckˀ assˀm</cell>
-<cell><measure ana='bk:money' type='currency' unit='gulden'>xxvii gulˀ</measure>qtivispˀ</cell>
-</row>
-<row>
-<cell>jan wellens vandˀ bleyk assˀm</cell>
-<cell>vip</cell>
-</row>
-<row>
-<cell>henrˀ metteˀ gelde vandˀ vert assˀm</cell>
-<cell>xxvi </cell>
-</row>
-<row>
-<cell>jaspˀ kumpe vandˀ snedeken</cell>
-<cell><measure ana='bk:money' type='currency' unit='gulden'>viiiˀ gulˀ</measure> vi</cell>
-</row>
-</table>
+            <p>
+                <lb/>Aefkeniˀghe dot vier renmeestˀs der <lb/>stat van loveˀ te weten meestˀ jaˀ van
+                <lb/>onvwinghe henrˀ wante dede vincke ende <lb/>jan deˀ prikeˀ van al dat sij
+                ontfaen enˀ <lb/>uutghegeveˀ hebben vandˀ renteˀ enˀ opco <lb/>niˀghe der
+                rontmeestscappe vandˀ stat <lb/>toebethoirenˀ van opten yetsten dach vandˀ
+                <lb/>maent van sexst int jaeˀ ons heˀn <lb/>enˀ iiiic xxxviii tot opten lesten dach
+                vandˀ <lb/>maent van cˀttobin int selve jaeˀ als <lb/>vandˀ yersten qˀtˀ jaeˀns
+                Welke rekeniˀge <lb/>gedaen es in divistge muˀteˀ de allen ghe <lb/>valueert sijn in
+                    <measure ana="bk:money" type="currency" unit="gulden">rijnscheˀ guldˀ</measure>
+                stuc te luype </p>
 
 
-<table>
-<row>
-<cell>jan gilans vandˀ meishalleˀ</cell>
-<cell><measure ana='bk:money' type='currency' unit='gulden'>op gulˀ</measure> iii qutˀ pi plˀ xi spˀ</cell>
-<cell>jan de joede vandˀ inre gelde</cell>
-<cell>xix ju v plˀ xii ˀ p</cell>
-</row>
-</table>
+            <p>
+                <lb/>intfanck </p>
 
 
-<p>
-<lb/><term>suˀ</term> van dat die rentmeestˀs ontfaen
-<lb/>hebben vandˀ stat vercocht assˀbiˀne
-<lb/>den yetsten qutˀ jiers compt op
-<lb/>xiiic <measure ana='bk:money' type='currency' unit='gulden'>lxix gulˀ</measure> rˀ xxiiiˀ plˀ 
-<lb/>te liiii xlˀ geˀ
-</p>
+            <p>
+                <lb/>keerst ontfaen vandˀ stat vercochten <lb/>sassˀ die alle jaeˀ berrnden op
+                divˀthe pˀsone <lb/>vandˀ yersten quts jaers <lb/>
+                <lb/>
+            </p>
+            <table>
+                <row>
+                    <cell>jan mˀtels vandˀ laken assˀm</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">lxx gulˀ</measure>
+                        iiˀ qˀtˀ</cell>
+                </row>
+                <row>
+                    <cell>jan van colen vandˀ weet assˀm</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">xiii
+                        guldˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>jan gheerlex vandˀ ziedˀ assˀm</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iii
+                        gulˀ</measure>qvixliipˀ</cell>
+                </row>
+                <row>
+                    <cell>henrˀ van vucht vandˀ zout assˀm</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">vˀ gulˀ</measure>
+                        xiii pl</cell>
+                </row>
+                <row>
+                    <cell>jan van dieneˀ vandˀ comeˀ assˀm</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">pˀ
+                        guldˀ</measure></cell>
+                </row>
+                <row>
+                    <cell> laes van dormule vandˀ pont assˀm</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">pˀtvi
+                        gulˀ</measure>ˀ qˀtˀ</cell>
+                </row>
+                <row>
+                    <cell>jaˀnes van royde vandˀ caˀchien</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">lviii gulˀ</measure>
+                        iii qˀtˀ</cell>
+                </row>
+                <row>
+                    <cell>jan de joede vandˀ vleesthuys</cell>
+                    <cell>e <measure ana="bk:money" type="currency" unit="gulden">xxii
+                            gulˀ</measure></cell>
+                </row>
+            </table>
 
-</body></text></TEI>
+            <pb n="2"/>
+
+            <table>
+                <row>
+                    <cell>jan de joede vandˀ bischimeia</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">xcii gulˀ</measure>
+                        ii qt</cell>
+                </row>
+                <row>
+                    <cell>symoen vandˀ meersbˀge vadˀ tolleke</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">ii gulˀ</measure> ix
+                        po</cell>
+                </row>
+                <row>
+                    <cell>gheert van rotfelaeˀ vandˀ beckˀ assˀm</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">xxvii
+                        gulˀ</measure>qtivispˀ</cell>
+                </row>
+                <row>
+                    <cell>jan wellens vandˀ bleyk assˀm</cell>
+                    <cell>vip</cell>
+                </row>
+                <row>
+                    <cell>henrˀ metteˀ gelde vandˀ vert assˀm</cell>
+                    <cell>xxvi </cell>
+                </row>
+                <row>
+                    <cell>jaspˀ kumpe vandˀ snedeken</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">viiiˀ gulˀ</measure>
+                        vi</cell>
+                </row>
+            </table>
+
+
+            <table>
+                <row>
+                    <cell>jan gilans vandˀ meishalleˀ</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">op gulˀ</measure>
+                        iii qutˀ pi plˀ xi spˀ</cell>
+                    <cell>jan de joede vandˀ inre gelde</cell>
+                    <cell>xix ju v plˀ xii ˀ p</cell>
+                </row>
+            </table>
+
+
+            <p>
+                <lb/><term>suˀ</term> van dat die rentmeestˀs ontfaen <lb/>hebben vandˀ stat
+                vercocht assˀbiˀne <lb/>den yetsten qutˀ jiers compt op <lb/>xiiic <measure
+                    ana="bk:money" type="currency" unit="gulden">lxix gulˀ</measure> rˀ xxiiiˀ plˀ
+                <lb/>te liiii xlˀ geˀ </p>
+
+            <pb n="3"/>
+
+            <p>
+                <lb/>ˀ i </p>
+
+
+            <p>
+                <lb/>kinder ontfanck vandˀ bieˀ assˀm <lb/>ddie dit jaeˀ onvˀcoch was enˀ dˀ stat
+                <lb/>bleveˀ es enˀ heeft de doen in huleˀ enˀ <lb/>op heffen vi woutˀ borgelijn
+                andeˀ <lb/>willems andˀ indeˀ ropˀ enˀ <lb/>met oˀnes vleege enˀ roeleˀ vandˀ
+                <lb/>else haeˀnˀ clercken b </p>
+
+
+            <p>
+                <lb/>retst soe hebben die briedˀs binneˀ dˀ stat <lb/>van loveˀ binneˀ den voirsˀ
+                yersteˀ qiˀ jiers <lb/>gebrouwen also dat inne den registe der <lb/>stat voirsˀ den
+                voirsˀ rentmeestˀ bideˀ voirsˀ <lb/>pˀsoneˀ onbbacht es iiii xcii soppenˀ <lb/>enˀ
+                tot elkˀ hoppeˀ gaen iiii muddeˀ monts <lb/>lovescher maten dˀaf meˀ geest van assˀm
+                <lb/>xi <measure ana="bk:money" type="currency" unit="gulden">vii gulˀ</measure>
+                rijs <lb/><measure ana="bk:money" type="currency" unit="gulden">ii guldˀ</measure>i
+                ˀcˀ makenˀ <lb/>Itˀ de bruedˀs van buyteˀ loveˀ ondˀ den heˀ <lb/>van hevˀle hebben
+                gebrouweˀ binneˀ den <lb/>voirsˀ yersteˀ qˀtˀ jaers xl hoppeˀ valˀ </p>
+
+
+            <table>
+                <row>
+                    <cell>te ii pˀse als bonc</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">pˀt
+                        guldˀ</measure></cell>
+                </row>
+            </table>
+
+
+            <p>
+                <lb/>Enˀ vandˀ koyteˀ de van ounteˀ loveˀ coˀmeˀ </p>
+
+
+            <table>
+                <row>
+                    <cell>es binneˀ deˀ voirsˀ sitˀ rets</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">xorsˀ
+                            guldˀ</measure></cell>
+                </row>
+            </table>
+            <p>
+                <lb/>fuˀ vandˀ onvˀcochten assˀ binneˀ de </p>
+            <table>
+                <row>
+                    <cell>i</cell>
+                    <cell>voirsˀ yersten qutfˀ jatis xii xipˀ qua</cell>
+                </row>
+            </table>
+
+            <pb n="4"/>
+
+            <p>
+                <lb/>sinder ontfant vanden buteˀports jaerienten die <lb/>hij der stat sculdich
+                hebben geweest van outs <lb/>enˀ van nuws binneˀ den yersten qˀtf jaers <lb/>enˀ
+                eerst vandˀ maent van oepst xiiii xxxviii </p>
+
+
+            <table>
+                <row>
+                    <cell>Ierst van pauwels vandˀ brvele</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>jan floruˀa van bram alloit</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii gulˀ</measure>
+                        xii oesse</cell>
+                </row>
+                <row>
+                    <cell>henf vandˀ lijnden van hˀssel</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>jan van lymeletts</cell>
+                    <cell>iii guˀlsioep</cell>
+                </row>
+                <row>
+                    <cell>ard vain nedˀhem van wiemode</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iii gulˀ</measure>
+                        ˀijioepst</cell>
+                </row>
+                <row>
+                    <cell>jan zaker van clabbeec</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">ii gulˀ</measure>
+                        xxiii icepst</cell>
+                </row>
+                <row>
+                    <cell>geerd quaˀtelant viii hevˀle</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">ii gulˀ</measure>
+                        xxviˀ aepst</cell>
+                </row>
+            </table>
+
+
+            <table>
+                <row>
+                    <cell>gheert vandˀ voirt van weseleˀ</cell>
+                    <cell>sˀule</cell>
+                    <cell>ˀioepst</cell>
+                </row>
+                <row>
+                    <cell>jan le ken van trabeec</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii
+                        gulˀ</measure>ˀ</cell>
+                </row>
+                <row>
+                    <cell>willem crippin van molens</cell>
+                    <cell>sˀgulˀ xxxii axstˀ</cell>
+                </row>
+                <row>
+                    <cell>xii</cell>
+                    <cell>xxx gˀbˀ</cell>
+                </row>
+            </table>
+
+            <pb n="5"/>
+
+            <table>
+                <row>
+                    <cell>in septembri xiiii xxxviii</cell>
+                    <cell/>
+                </row>
+            </table>
+
+
+            <table>
+                <row>
+                    <cell>reist jan michgiels van buedingen</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">ii
+                        gulˀ</measure></cell>
+                </row>
+            </table>
+            <p>
+                <lb/><measure ana="bk:money" type="currency" unit="gulden">ii gulˀ</measure>iˀ septˀ
+                <lb/>jan daˀme oede van dion </p>
+            <table>
+                <row>
+                    <cell>henrˀ de clerc van heˀntals</cell>
+                    <cell>pˀgulˀ ii septˀ</cell>
+                </row>
+                <row>
+                    <cell>jan nuwestat van duffle</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">vi gulˀ</measure>bˀ
+                        ˀ septˀ</cell>
+                </row>
+                <row>
+                    <cell>jan megevels van wuestineers</cell>
+                    <cell>ii gulbˀ</cell>
+                </row>
+                <row>
+                    <cell>jan van ranseec van beets</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iii gulˀ</measure>
+                        ixˀi septˀ</cell>
+                </row>
+                <row>
+                    <cell>jan van basel geseteˀ van romeˀ</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>willem le lacie van valiopont</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">sˀ gulˀ</measure> pi
+                        iˀseptˀ</cell>
+                </row>
+            </table>
+
+
+            <table>
+                <row>
+                    <cell>lantx snepˀ van crytenbˀgeˀ</cell>
+                    <cell/>
+                    <cell/>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">ii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>colijn de roysart</cell>
+                    <cell>gulˀ xiiii sest</cell>
+                </row>
+                <row>
+                    <cell>pauwels van viersel</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>philips vandˀ bossch van asten</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii gulˀ</measure>
+                        xv iii septˀ</cell>
+                </row>
+                <row>
+                    <cell>jan de cleic van linck</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>jan van rikemode van waelhem</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>jan vandˀ boˀmeˀ van yersel</cell>
+                    <cell>vij gul ˀijiˀseptˀ</cell>
+                </row>
+                <row>
+                    <cell>hubrf mattelot van haˀnue</cell>
+                    <cell>vgubˀ</cell>
+                </row>
+                <row>
+                    <cell>jan hoyxken van vissenaken</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">qˀ gulˀ</measure>
+                        xxbiiˀ septˀ</cell>
+                </row>
+                <row>
+                    <cell>jan le sienet van ose ophant</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">jˀ gulˀ</measure>
+                        xxix sesitˀ</cell>
+                </row>
+                <row>
+                    <cell>jan linta geheteˀ claes</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">b gulˀ</measure>
+                        ˀiseptˀ</cell>
+                </row>
+            </table>
+            <p>
+                <lb/>lˀˀ <measure ana="bk:money" type="currency" unit="gulden">lxxiii gulˀ</measure>
+            </p>
+
+            <pb n="6"/>
+
+            <p>
+                <lb/>i octˀ xiiii xxxviii </p>
+
+
+            <table>
+                <row>
+                    <cell>beerst jan van wesenbeec van schoten</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">ix gulˀ</measure> ii
+                        ocˀ</cell>
+                </row>
+                <row>
+                    <cell>goeswijn vandˀ bˀghe van wambeer</cell>
+                    <cell>gulˀ iiii octˀ</cell>
+                </row>
+                <row>
+                    <cell>andˀ lanc van pˀttie</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>jan langelet van op han</cell>
+                    <cell>vii qulˀ in</cell>
+                </row>
+                <row>
+                    <cell>woutˀ van hoddiemont</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">viii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>tielˀ pulmaˀ van brecht</cell>
+                    <cell>pˀgulˀ bijdˀocˀ</cell>
+                </row>
+                <row>
+                    <cell>henrˀ van miligem van zonthˀ</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">vi
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>sempde cellit veni jandiami</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>henri gondack van leeuwe</cell>
+                    <cell>sˀgulˀ</cell>
+                </row>
+                <row>
+                    <cell>willem van oestkerkeˀ</cell>
+                    <cell>sgulˀ</cell>
+                </row>
+                <row>
+                    <cell>jan le caille van tubero</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>gielˀ bˀni geheteˀ posen</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>johana van petit bomale</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">b gulˀ</measure> xi
+                        doctˀ</cell>
+                </row>
+                <row>
+                    <cell>willem vandˀ blaett</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">vi
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>henrˀ raspe van nedˀwijnde</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>jan del bruwieˀ van roukmez</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">ii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>jan de four dutie</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>kaef de rossial van tubeer</cell>
+                    <cell>sgulˀ spiiioctˀ</cell>
+                </row>
+                <row>
+                    <cell>gheert thier lele</cell>
+                    <cell>s gul</cell>
+                </row>
+                <row>
+                    <cell>lambrˀ clarissien van baleer</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">v
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>jan vandˀ dijck van ytegen</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iii gulˀ</measure>
+                        xiiiie ocˀ</cell>
+                </row>
+                <row>
+                    <cell>henrˀ le rat van zart</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">ii gulˀ</measure>
+                        xvii octˀ</cell>
+                </row>
+                <row>
+                    <cell>paem tomet van buyssche</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">vi gulˀ</measure>
+                        xvii iˀ occˀ</cell>
+                </row>
+                <row>
+                    <cell>gorˀ botson van seve</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">viii gulˀ</measure>
+                        xviii rˀst</cell>
+                </row>
+                <row>
+                    <cell>and vandˀ male van scchille</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">xi gulˀ</measure>
+                        xixi ocu</cell>
+                </row>
+                <row>
+                    <cell>jan joly de henewiere</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">viii gulˀ</measure>
+                        xviiio ˀtˀ</cell>
+                </row>
+                <row>
+                    <cell>philips dabiii van vileert</cell>
+                    <cell>philips van beafont</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii
+                        gulˀ</measure></cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii
+                        gulˀ</measure>io</cell>
+                </row>
+                <row>
+                    <cell>willem vanon van beemeen</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">ix
+                        gulˀ</measure></cell>
+                </row>
+            </table>
+
+            <pb n="7"/>
+
+            <p>
+                <lb/>ti </p>
+
+
+            <table>
+                <row>
+                    <cell>weer van chasteal van haˀmun</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iii
+                        guldˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>reyner vandˀ kerchove van leeuweˀ</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">v
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>jan van jauchelet van pˀweir</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>jan der boven van pˀwˀela</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iiii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>jan were van mairantsart</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">vi
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>jan sevestal del anne</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">vi gulˀ</measure>
+                        ˀircˀ</cell>
+                </row>
+                <row>
+                    <cell>jan moreal van maransait</cell>
+                    <cell>iiii gullˀ</cell>
+                </row>
+                <row>
+                    <cell>henrˀ ards van beetge</cell>
+                    <cell>ii tsulˀ</cell>
+                </row>
+                <row>
+                    <cell>jan de beckˀ van bˀthem</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iii
+                        gulˀ</measure></cell>
+                </row>
+                <row>
+                    <cell>woutˀ craessait van meldeˀ</cell>
+                    <cell>sˀgulˀ</cell>
+                </row>
+                <row>
+                    <cell>willem masse van geldenakeˀ</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">bˀi gulˀ</measure>
+                        xˀxiiotii</cell>
+                </row>
+                <row>
+                    <cell>jan le begge van gheten</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">v gulˀ</measure>
+                        xxiie octiˀ</cell>
+                </row>
+                <row>
+                    <cell>willemˀ van ereˀbodegem</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">iii
+                        gulˀ</measure></cell>
+                </row>
+            </table>
+
+
+            <p>
+                <lb/><measure ana="bk:money" type="currency" unit="gulden">viii gulˀ</measure>
+                xxiiii i ottˀ </p>
+
+
+            <table>
+                <row>
+                    <cell>henrˀ de prert van fiasua</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">i
+                        gulˀ</measure></cell>
+                    <cell>jan le hongie dennas</cell>
+                </row>
+            </table>
+
+
+            <table>
+                <row>
+                    <cell> laens de jaze van willenbe</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">ii gulˀ</measure>
+                        xxviii ˀ oc</cell>
+                </row>
+                <row>
+                    <cell>woutˀ scherme van outgˀden</cell>
+                    <cell>i</cell>
+                </row>
+                <row>
+                    <cell>steveˀ reclar van goye</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">vi gulˀ</measure>
+                        ˀxipiˀ octˀ</cell>
+                </row>
+                <row>
+                    <cell>colˀ comt barlet vaˀ chastie</cell>
+                    <cell>iii tsulˀ</cell>
+                </row>
+            </table>
+            <p>
+                <lb/> ii <measure ana="bk:money" type="currency" unit="gulden">xxxiiii
+                    gulˀ</measure>
+            </p>
+            <table>
+                <row>
+                    <cell>de</cell>
+                    <cell>So vandˀ voirsˀ buten poingelde dat</cell>
+                </row>
+            </table>
+            <p>
+                <lb/>comeˀ yer binneˀ den voirsˀ yersten <lb/>ittˀ jaeˀrs compt op iiic <measure
+                    ana="bk:money" type="currency" unit="gulden">xxxvii gulˀ</measure>
+            </p>
+
+
+            <p>
+                <lb/> coˀma soˀmarˀ van alden ontfanghe </p>
+
+
+            <table>
+                <row>
+                    <cell/>
+                    <cell>bine desen yersten ˀtˀ jaers</cell>
+                </row>
+            </table>
+            <p>
+                <lb/>conapt tetgadiop ii ipˀ xxvˀgulˀ <lb/>l plˀ viis pˀ ˀtuc te liiii plˀ eeˀ </p>
+
+            <pb n="8"/>
+
+            <p>
+                <lb/>
+            </p>
+
+
+            <p>
+                <lb/>tˀghen dit voirsˀ ontfant dat de voirsˀ jonre <lb/>meestˀs ontfaen ende
+                innegehaveˀ hebben <lb/>vandˀ stat assˀ enˀ vandˀ ponte jacrienten gelijt <lb/>ii
+                donfaen vandˀ selveˀ yersten qutˀ jaers ver <lb/>claert es Soe hebben sij wedˀ
+                uutgegeveˀ <lb/>enˀ betailt binneˀ den selveˀ quˀt jaiir gebijt <lb/>volge </p>
+
+
+            <p>
+                <lb/>retst in lijftochteˀ </p>
+
+
+            <p>
+                <lb/>te brux in lijftochteˀ die de sta aldaeˀ <lb/>sculdich was vandˀ maeˀt vaˀ
+                oepst xiiii xxxviii x gtˀ oude </p>
+
+
+            <p>
+                <lb/>te brueˀ in lijftˀ die de stat aldrie sculdˀ <lb/>was binneˀ der maenc vaˀ
+                septˀ xiiiic xxxviii xxv grˀ ondˀ </p>
+
+
+            <p>
+                <lb/>rebrupˀ in lijftˀ die de stat aldaeˀ sculdˀ <lb/>was vandˀ maeˀt ba pˀcˀ xiiii
+                xxxviii x sgrˀ oude </p>
+
+
+            <p>
+                <lb/>vandˀ lijftˀ die de rentmeestˀs voirsˀ <lb/>betailt hebben binneˀ den yersteˀ
+                ic <lb/>jaers compt plv sgrˀ oude pbton <lb/>bou elc lˀ giponde enˀ xlom ptˀvoir
+                <lb/>den trene gerˀ maken xxxiii taneˀ enˀ <lb/>iji gieˀ van oveˀ toen de maken in
+                rijsch </p>
+
+
+            <table>
+                <row>
+                    <cell>sout te laiii plˀ</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">xxx gulˀ</measure>
+                        rijs</cell>
+                </row>
+            </table>
+            <p>
+                <lb/>te vilvonde in lijftochteˀ die de stat aldar </p>
+            <table>
+                <row>
+                    <cell>vˀ sgif oude enˀ drie voir</cell>
+                    <cell>sculdich wais vandˀ naet van septˀ voirsˀ</cell>
+                    <cell><measure ana="bk:money" type="currency" unit="gulden">i
+                        gulˀ</measure>ey</cell>
+                </row>
+            </table>
+
+            <pb n="9"/>
+
+            <p>
+                <lb/>te mechlen in lijftˀ die de stat aldaeˀ scald </p>
+
+
+            <table>
+                <row>
+                    <cell>was vandˀ maent oepst voirsˀ</cell>
+                    <cell>plb grˀ ond</cell>
+                </row>
+            </table>
+            <p>
+                <lb/>Te mech len in lijfli die de stat aldaeˀ sculdˀ </p>
+
+
+            <table>
+                <row>
+                    <cell>was vandˀ maeˀt van septˀ vonsˀ</cell>
+                    <cell>xlisgisonde</cell>
+                </row>
+            </table>
+            <p>
+                <lb/>te meetslen in lijftˀ die de stat aldrie sculdˀ </p>
+
+
+            <table>
+                <row>
+                    <cell>wan bandˀ mat van pˀittˀ voirsˀ</cell>
+                    <cell>xiiii grˀ oudeˀ</cell>
+                </row>
+            </table>
+
+
+            <p>
+                <lb/>oˀo vandˀ lijftˀ de de rentmeestˀs voirsˀ <lb/>betˀ hebben te mechlen binneˀdeˀ
+                <lb/>vonrsˀ yersteˀ ˀitˀ jaets compt op <lb/>va li vi svi dˀgifrude du makeˀ <lb/>in
+                rijnsche <measure ana="bk:money" type="currency" unit="gulden">xiii
+                gulˀ</measure>rijns bour ess <lb/> gisonde gerˀ <measure ana="bk:money"
+                    type="currency" unit="gulden">lxix gulˀ</measure> rijs xii ptˀm spˀ </p>
+
+
+            <p>
+                <lb/>Tandwerpeˀ in lijf die de stat aldaeˀ scaldˀ </p>
+
+
+            <table>
+                <row>
+                    <cell>was vandˀ maent van oexst voirsˀ</cell>
+                    <cell> sgˀˀoude</cell>
+                </row>
+            </table>
+            <p>
+                <lb/>bandwerpeˀ in lijftˀ die de stat aldaeˀ sculdˀ </p>
+
+
+            <table>
+                <row>
+                    <cell>suus bandˀ maet vaˀ septˀ voirsˀ</cell>
+                    <cell>psgifonde</cell>
+                </row>
+            </table>
+            <p>
+                <lb/>Tandwerpen zij lijftˀ die de stat aldaeˀ sculdˀ </p>
+
+
+            <table>
+                <row>
+                    <cell>was vandˀ maent vaˀ octˀ voirsˀ</cell>
+                    <cell>visˀ gii oude</cell>
+                </row>
+            </table>
+
+
+            <p>
+                <lb/>i oˀma vandˀ lijftˀ die de rentmests <lb/>voirsˀ betsˀ hebbeˀ tandwerpeˀ binneˀ
+                <lb/>scen yersteˀ qˀntˀ jaers crompˀt op <lb/>xxviiˀ ˀˀ oude de makeˀ <measure
+                    ana="bk:money" type="currency" unit="gulden">xiii gulˀ</measure>
+                <lb/>voir elc hˀ gisoude getˀ <measure ana="bk:money" type="currency" unit="gulden"
+                    >xvii gulˀ</measure>nˀ qˀtˀ rˀ </p>
+
+        </body>
+    </text>
+</TEI>

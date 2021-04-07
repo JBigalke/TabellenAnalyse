@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>P2PaLA-PRHLT</Creator>
+    <Created>2020-07-26T16:27:39</Created>
+    <LastChange>2020-07-26T14:54:33Z</LastChange>
+  </Metadata>
+  <Page imageFilename="SAL5066_0008.jpg" imageHeight="2527" imageWidth="2048">
+    <TextRegion custom="structure {type:full_page;}" id="rKykd_1">
+      <Coords points="0,0 0,2524 2045,2524 2045,0"/>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-
 import lxml.etree as ET
 import os
 from datetime import datetime
@@ -63,8 +62,8 @@ for filename in files:
         ypoints = []
         points = baseline.attrib['points'].split(" ")
         for point in points:
-            xpoints.append(int(point.split(",")[0]))
-            ypoints.append(int(point.split(",")[1]))
+            xpoints.append(float(point.split(",")[0]))
+            ypoints.append(float(point.split(",")[1]))
         linedict[id] = [sum(ypoints) / len(ypoints), xpoints[0], points[-1]]
     sorted = sort(linedict)
 
@@ -192,6 +191,7 @@ for filename in files:
     Created = ET.SubElement(Metadata, "Created").text = str(datetime.now())
     pagexml = xml.findall(".//d:Page", ns)
     textregionxml = pagexml[0].findall("./d:TextRegion", ns)
+    print(pagexml[0])
     Page = ET.SubElement(root, "Page", imageFilename=pagexml[0].attrib['imageFilename'], imageHeight=pagexml[0].attrib["imageHeight"], imageWidth=pagexml[0].attrib["imageWidth"])
     if len(textregionxml) != 0:
         TextRegionPage = ET.SubElement(Page, "TextRegion",custom=textregionxml[0].attrib['custom'], id=textregionxml[0].attrib['id'])
